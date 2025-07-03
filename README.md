@@ -1,0 +1,1 @@
+githubのissue,pull requestのページでいい感じのリンクをコピーできるやつ。
